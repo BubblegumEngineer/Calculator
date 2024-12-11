@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 133, 153);
+
+}
+
+td, th {
+    border: 3px solid rgb(19, 18, 18);
+}
+
+table{
+    border-collapse: collapse;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(166, 249, 249);
+}
+
+#answer {text-align: right;}
